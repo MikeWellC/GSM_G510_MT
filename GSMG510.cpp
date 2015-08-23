@@ -12,8 +12,6 @@ void GSM_G510::init() {
 
 	sbi(DDRD,PD2);
 	cbi(PORTD,PD2);
-
-
 }
 
 /*
